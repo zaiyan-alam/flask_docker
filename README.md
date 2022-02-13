@@ -6,7 +6,7 @@ Methods implemented for interacting with the backend service :
 2. Fronted-UI
 
 Response from the server is returned in JSON format.\
-User input : multiple location codes separated by space
+User input : multiple location codes separated by space\
 Output : JSON data containing all the information required to complete the objective
 
 The application can also be run on Docker. The Dockerfile is used to create an image in the Docker container. Following steps are to be followed in order to do run the app in the container --
