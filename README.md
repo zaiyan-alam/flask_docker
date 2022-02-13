@@ -21,13 +21,13 @@ PROJECT DIRECTORY STRUCTURE :
 
 flask_dockerized\
     │\
-   ├── Read-Me.txt\
+├── Read-Me.txt\
     │\
-   ├── Dockerfile\
+├── Dockerfile\
     │\
-    ├── requirements.txt\
+├── requirements.txt\
     │\
-    ├── static\
+├── static\
     │   ├── locations.csv\
     │   └── trips.csv\
     │\
