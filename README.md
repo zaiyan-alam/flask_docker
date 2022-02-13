@@ -20,21 +20,21 @@ The application can also be run on Docker. The Dockerfile is used to create an i
 PROJECT DIRECTORY STRUCTURE : 
 
 flask_dockerized\
-    │
-    ├── Read-Me.txt
-    │
-    ├── Dockerfile
-    │
-    ├── requirements.txt
-    │
-    ├── static
-    │   ├── locations.csv
-    │   └── trips.csv
-    │
-    ├── templates
-    │           └── index.html
-    │
-    └── screenshots
-        ├── HTML (local browser)
-        ├── Postman
-        └── Docker
+    │\
+    ├── Read-Me.txt\
+    │\
+    ├── Dockerfile\
+    │\
+    ├── requirements.txt\
+    │\
+    ├── static\
+    │   ├── locations.csv\
+    │   └── trips.csv\
+    │\
+    ├── templates\
+    │           └── index.html\
+    │\
+    └── screenshots\
+        ├── HTML (local browser)\
+        ├── Postman\
+        └── Docker\
