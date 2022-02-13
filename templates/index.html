@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>{{ title }}</title>
+    </head>
+    <body>
+      <form style="text-align:center" action = "{{ url_for("locations")}}" method = "get">
+       <p>Enter Location Codes :</p>
+       <p><input type = "text" name = "codes" /></p>
+       <button type="submit">Get Information</button>
+    </form>
+    </body>
+</html>
