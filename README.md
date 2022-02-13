@@ -5,7 +5,7 @@ Methods implemented for interacting with the backend service :
 1. Postman
 2. Fronted-UI
 
-Response from the server is returned in JSON format.
+Response from the server is returned in JSON format.\
 User input : multiple location codes separated by space
 Output : JSON data containing all the information required to complete the objective
 
