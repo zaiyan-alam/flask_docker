@@ -1,5 +1,5 @@
 # flask_docker
-A simple Backend API service in Python'S Flask web framework with ability to run in Docker container.
+A simple Backend API service in Python Flask web framework with ability to run in Docker container.
 
 Methods implemented for interacting with the backend service :
 1. Postman
