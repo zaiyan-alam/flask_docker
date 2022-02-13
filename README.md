@@ -19,7 +19,7 @@ The application can also be run on Docker. The Dockerfile is used to create an i
 
 PROJECT DIRECTORY STRUCTURE : 
 
-flask_dockerized
+flask_dockerized\
     │
     ├── Read-Me.txt
     │
